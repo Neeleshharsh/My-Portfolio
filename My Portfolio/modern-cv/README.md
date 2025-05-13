@@ -1,9 +1,8 @@
 ### Modern CV website using Html, Css and JavaScript.
 
-![Modern CV](https://github.com/codersgyan/modern-cv/blob/master/images/maxresdefault.jpg)
 
 
-#### Demo: https://codersgyan.github.io/modern-cv/
+#### Demo: [https://codersgyan.github.io/modern-cv/](https://github.com/Neeleshharsh/My-Portfolio/edit/main/My%20Portfolio/modern-cv)
 
 
 
