@@ -2,7 +2,7 @@
 
 
 
-#### Demo: [https://codersgyan.github.io/modern-cv/](https://github.com/Neeleshharsh/My-Portfolio/edit/main/My%20Portfolio/modern-cv)
+#### Demo: (https://github.com/Neeleshharsh/My-Portfolio/edit/main/My%20Portfolio/modern-cv)
 
 
 
